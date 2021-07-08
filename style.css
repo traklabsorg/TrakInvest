@@ -1,0 +1,21 @@
+body{
+    margin-top: 0;
+}
+.Navbar{
+    margin-top: 0;
+    background-color: #f8f9fa;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
